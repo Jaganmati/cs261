@@ -1,0 +1,23 @@
+{
+  "name": "cs261_assignment5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web API for Assignment 5",
+  "main": "app.js",
+  "author": "Johnathan Faehn",
+  "license": "MIT",
+  "dependencies": {
+    "async": "*",
+    "bluebird": "^3.5.3",
+    "body-parser": "~1.16.0",
+    "cookie-parser": "*",
+    "crypto": "latest",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "json-stringify-safe": "*",
+    "moment": "*",
+    "mongodb": "^3.1.13",
+    "redis": "^2.8.0",
+    "uuid": "^3.0.1"
+  }
+}
